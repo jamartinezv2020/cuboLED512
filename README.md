@@ -1,20 +1,7 @@
 Cubo LED 8x8x8 con ATmega8
 Descripción
 
-Este proyecto consiste en la construcción de un cubo LED 8x8x8 controlado por un microcontrolador ATmega8. Se utilizaron registros de desplazamiento 74HC595 y transistores ULN2803 para controlar los cátodos de cada piso. A continuación, se describe el proceso de construcción, los materiales utilizados y cómo replicar el proyecto.
-=======
 Este proyecto consiste en la construcción de un cubo LED 8x8x8 controlado por un microcontrolador ATmega8. Utilicé registros de desplazamiento 74HC595 y transistores ULN2803 para controlar los cátodos de cada piso. A continuación, se describe el proceso de construcción, los materiales utilizados y cómo replicar el proyecto.
-
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-<img src="https://github.com/BrandonRv/Cubo-8x8x8_effect/blob/main/fotos/cubo_imagen.jpeg" alt="PROJECT_PHOTO" width="600"/>
->>>>>>> 8adffb9 (fotos)
-=======
-<img src="https://github.com/BrandonRv/Cubo-8x8x8_effect/blob/main/fotos/cubo_imagen.jpeg" alt="PROJECT_PHOTO" width="500"/>
->>>>>>> aa5d237 (foto)
-
-<<<<<<< HEAD
 
 Materiales
 •	1x ATmega8
@@ -40,8 +27,6 @@ Materiales
 •	1x LED verde
 Código Arduino
 Puedes encontrar el código en la carpeta <Cub0_INO>.
-=======
->>>>>>> a77c311 (fotos_)
 ## Materiales
 
 - 1x ATmega8
@@ -97,17 +82,16 @@ https://mcudude.github.io/MiniCore/package_MCUdude_MiniCore_index.json
 4. Alimentación
 El cubo se alimenta con una fuente de 5V. Asegúrate de que la fuente pueda entregar la corriente suficiente para alimentar todos los LEDs. El consumo total, con todos los LEDs encendidos, es de aproximadamente 1 a 1.5 amperios, dependiendo de los LEDs utilizados.
 
-<<<<<<< HEAD
+
 YouTube
 Puedes ver el video del proyecto en el siguiente enlace:
 https://youtu.be/N4tvsjkCFxY?feature=shared
-=======
+
 ## Demo
 
 https://github.com/user-attachments/assets/f515fe18-2103-49e3-8c22-d274ce426c20
 
 ## Youtube 
+https://youtu.be/N4tvsjkCFxY?feature=shared
 
-Sera Subido Pronto!!!
->>>>>>> bd705dc (Update README.md)
 
