@@ -26,6 +26,34 @@ Materiales
 •	1x LED verde
 Código Arduino
 Puedes encontrar el código en la carpeta <Cub0_INO>.
+=======
+## Materiales
+
+- 1x ATmega8
+- 9x Registros de desplazamiento 74HC595
+- 1x Transistores ULN2803
+- 512x LEDs (preferiblemente del mismo color o combinaciones de colores)
+- 68x Resistencias de 220Ω (para limitar la corriente de los LEDs)
+- xPCB Baquela universal perforada 90cm x 15cm
+- 9x socket de 16pines para cada Compuerta 74hc595
+- Cables de conexión (Bastantes jejej..)
+- 1x Fuente de alimentación de 5V (Puede ser de Celular est no superara los 2 amperios de cosumo)
+- 1x Rollo Alambre Galvanizado
+- 2x Pines Header Hembra 
+- 2x Pines Header Macho
+- 1x Cristal 16mhz
+- 2x Capitores 22pf
+- 2x Resistencias 10kohm
+- 3x Pulsadores sencillo (o de acuerdo a la nececidad)
+- 1x Capacitor 470uf x 10v
+- 1x socket 28pines para el microcontrolador
+- 1x socket de 18pines para el array de transistores
+- 1x Led Rojo
+- 1x Led Verde
+
+## CODIGO ARDUINO 
+
+- Lo encuentras en la carpeta <Cub0_INO>
 
 Esquema del Circuito
 ![Esquema del Cubo LED](https://git remote add origin https://github.com/jamartinezv2020/cuboLED512.git/blob/main/Esquematico_CUBO.png)
