@@ -26,7 +26,6 @@ Materiales
 •	1x LED verde
 Código Arduino
 Puedes encontrar el código en la carpeta <Cub0_INO>.
-=======
 ## Materiales
 
 - 1x ATmega8
