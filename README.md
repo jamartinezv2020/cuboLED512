@@ -3,29 +3,7 @@ Descripción
 
 Este proyecto consiste en la construcción de un cubo LED 8x8x8 controlado por un microcontrolador ATmega8. Utilicé registros de desplazamiento 74HC595 y transistores ULN2803 para controlar los cátodos de cada piso. A continuación, se describe el proceso de construcción, los materiales utilizados y cómo replicar el proyecto.
 
-Materiales
-•	1x ATmega8
-•	9x Registros de desplazamiento 74HC595
-•	1x Transistor ULN2803
-•	512x LEDs (preferiblemente del mismo color o combinaciones de colores)
-•	66x Resistencias de 220Ω (para limitar la corriente de los LEDs)
-•	PCB Baquelita universal perforada de 90 cm x 15 cm
-•	9x Socket de 16 pines para cada compuerta 74HC595
-•	Cables de conexión (suficientes para el proyecto)
-•	1x Fuente de alimentación de 5V (preferiblemente de celular; no debe superar los 2 amperios de consumo)
-•	1x Rollo de alambre galvanizado
-•	2x Pines header hembra
-•	2x Pines header macho
-•	1x Cristal de 16 MHz
-•	2x Capacitores de 22 pF
-•	2x Resistencias de 10 kΩ
-•	3x Pulsadores sencillos (o los necesarios según el diseño)
-•	1x Capacitor de 470 µF a 10V
-•	1x Socket de 28 pines para el microcontrolador
-•	1x Socket de 18 pines para el array de transistores
-•	1x LED rojo
-•	1x LED verde
-Código Arduino
+
 Puedes encontrar el código en la carpeta <Cub0_INO>.
 ## Materiales
 
