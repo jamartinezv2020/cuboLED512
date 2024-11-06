@@ -1,6 +1,11 @@
 Cubo LED 8x8x8 con ATmega8
 Descripción
+
 Este proyecto consiste en la construcción de un cubo LED 8x8x8 controlado por un microcontrolador ATmega8. Se utilizaron registros de desplazamiento 74HC595 y transistores ULN2803 para controlar los cátodos de cada piso. A continuación, se describe el proceso de construcción, los materiales utilizados y cómo replicar el proyecto.
+=======
+Este proyecto consiste en la construcción de un cubo LED 8x8x8 controlado por un microcontrolador ATmega8. Utilicé registros de desplazamiento 74HC595 y transistores ULN2803 para controlar los cátodos de cada piso. A continuación, se describe el proceso de construcción, los materiales utilizados y cómo replicar el proyecto.
+
+
 
 Materiales
 •	1x ATmega8
@@ -55,7 +60,7 @@ Puedes encontrar el código en la carpeta <Cub0_INO>.
 - Lo encuentras en la carpeta <Cub0_INO>
 
 Esquema del Circuito
-![Esquema del Cubo LED](https://git remote add origin https://github.com/jamartinezv2020/cuboLED512.git/blob/main/Esquematico_CUBO.png)
+
 Construcción
 1. Montaje de la Estructura del Cubo
 • Preparar los LEDs: Organiza los LEDs en 8 capas de 8x8.
