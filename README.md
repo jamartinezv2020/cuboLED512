@@ -97,7 +97,17 @@ https://mcudude.github.io/MiniCore/package_MCUdude_MiniCore_index.json
 4. Alimentación
 El cubo se alimenta con una fuente de 5V. Asegúrate de que la fuente pueda entregar la corriente suficiente para alimentar todos los LEDs. El consumo total, con todos los LEDs encendidos, es de aproximadamente 1 a 1.5 amperios, dependiendo de los LEDs utilizados.
 
+<<<<<<< HEAD
 YouTube
 Puedes ver el video del proyecto en el siguiente enlace:
 https://youtu.be/N4tvsjkCFxY?feature=shared
+=======
+## Demo
+
+https://github.com/user-attachments/assets/f515fe18-2103-49e3-8c22-d274ce426c20
+
+## Youtube 
+
+Sera Subido Pronto!!!
+>>>>>>> bd705dc (Update README.md)
 
